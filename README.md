@@ -1,3 +1,16 @@
+# Github Pages Deployment
+
+only deploy /dist folder, on branch gh-pages
+```
+npm run build
+cd dist
+git init
+git checkout -b gh-pages
+git add .
+git commit -m "deploy"
+git push --force git@github.com:jukandler/hcw-strafenkatalog.git gh-pages
+```
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.

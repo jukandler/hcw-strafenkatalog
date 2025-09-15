@@ -22,7 +22,7 @@
 <main class="container">
   <header>
     <h1>🎾 Strafenkatalog</h1>
-    <h2>HC Wacker Damen 3</h2>
+    <h2>HC Wacker Damen III</h2>
   </header>
 
   <div class="strafen-liste">
